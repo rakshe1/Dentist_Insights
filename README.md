@@ -8,5 +8,6 @@ Based on the attached spreadsheet please generate a monthly report / dashboard (
 Please include the monthly revenue figures surplus and/or shortfall in your report per dentist and also for the company.
 You are free to add more insights into the report as appropriate.
 
+-------------------------**----------------**----------------------**----------------------**----------------**------------------------**-----------------------**--------------
 
 I have worked with a real dataset of monthly performance data for a dental practice, which I used to create a comprehensive monthly dashboard. From this analysis, I was able to extract key insights and develop actionable recommendations for the business owner to improve performance and drive growth.
